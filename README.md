@@ -2,12 +2,15 @@
 
 **Project background:** I'm not a big fan of TVs. Firstly, I don't haev time to watch TV but also, I don't like what they look like in a space. They are big black slabs grabbing attention in living rooms and I simply don't like that look. That said, I would still like to watch a movie and laptops too much of a compromise. So the natural solution would be to use a projector. As can see from the video, there isn't a clean wall around my living room so I would either have to take one of the paintings down to use the wall as a screen or install the roll-down screen. Once again, I don't like either of those. So the idea I came up with is to integrate the projector and the "screen" into the existing space. Projector is housed in one of the drawers that flip up on command and the full "screen" is revealed as the painting slides up. 
 ______________________________
+
 **Flip-up Drawer:**
 
 The drawer runs entirely on 5V DC, there is a 220VAC-to-5VDC power adapter driving the ESP8266 as well as the motor controller and motors.
 Motors are just regular hobby motors with a 48:1 gear transmission adding extra torque to the winch. The winch wheels as well as wheel catchers are 3D printed and the STL files can ben found in the repository.
 
 Micropython is flashed on the ESP8266 and two files are running the show. The boot.py runs on boot and connects the device to wifi. The main.py creates a server that listens on port 80 and tells motors what to do.
+
+![ ](/drawer1.gif)
 
 ![ ](/IMG_4312.jpg)
 
@@ -19,13 +22,13 @@ You can find the STL files of the 3D printed objectsin the pepository.
 
 ![ ](/drawer2.gif)
 
-![ ](/drawer1.gif)
 ______________________________
+
 **Sliding Painting:**
 
-![ ](/IMG_4292.jpg)
-
 ![ ](/painting.gif)
+
+![ ](/IMG_4292.jpg)
 
 ![ ](/IMG_4336.jpg)
 
