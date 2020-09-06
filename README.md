@@ -17,12 +17,15 @@ You can find the STL files of the 3D printed objectsin the pepository.
 
 ![ ](/IMG_4311.jpg)
 
+![ ](/drawer2.gif)
+
+![ ](/drawer1.gif)
 ______________________________
 **Sliding Painting:**
 
 ![ ](/IMG_4292.jpg)
 
-![video](https://j.gifs.com/5QPnvR.gif)
+![ ](/painting.gif)
 
 ![ ](/IMG_4336.jpg)
 
